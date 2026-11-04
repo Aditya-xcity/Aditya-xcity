@@ -1,4 +1,6 @@
-# Aditya Bhardwaj
+<p align="center">
+  <img src="assets/avatar-dots.svg" width="180" alt="My GitHub avatar rendered as a dot matrix">
+</p>
 
 ![Terminal banner: Aditya Bhardwaj, B.Tech CSE student and developer](assets/terminal.svg)
 
