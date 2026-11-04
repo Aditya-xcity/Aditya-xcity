@@ -1,27 +1,29 @@
-# 💫 About Me:
-Hey! I’m Aditya Bhardwaj, a B.Tech CSE student from India who genuinely enjoys building things and understanding how they work under the hood. I like working across different layers of tech — from C/C++ and core programming concepts to JavaScript, data tools, and backend experimentation.<br><br>I’m especially interested in problem-solving, file handling, system-level logic, and practical projects that feel real instead of textbook-only. I believe consistency beats talent, so I focus on learning daily, writing cleaner code, and improving project structure one step at a time.<br><br>Right now, I’m exploring backend development, data handling, and GitHub-based project building, while sharpening my fundamentals in computer science. I’m not here to rush titles — I’m here to build skills that actually last.<br><br>Always curious, always learning, and always shipping 🚀
+# Aditya Bhardwaj
 
+![Terminal banner: Aditya Bhardwaj, B.Tech CSE student and developer](assets/terminal.svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-bhardwaj-9a9a7a341/) 
+I'm a B.Tech Computer Science and Engineering student building native mobile apps and exploring backend engineering, algorithms, and applied AI.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=plastic&logo=apple&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditya-xcity&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya-xcity&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-xcity&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[Connect on LinkedIn](https://www.linkedin.com/in/aditya-bhardwaj-ios/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aditya-xcity&theme=ambient_gradient&no-frame=false&no-bg=true&margin-w=4)
+## Selected work
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- **[Khelo](https://github.com/Aditya-xcity/Khelo)** — Native Android prototype in Kotlin for finding, joining, and organizing local sports games.
+- **[Tap & Track](https://github.com/Aditya-xcity/nfc-attendance-pro)** — Python attendance prototype with NFC card registration, timestamped check-ins, and Excel exports.
+- **[PYQ Portal](https://github.com/Aditya-xcity/pyq-portal)** — Exam paper browser backed by a Python manifest generator and GitHub Pages.
+- **[GeoDetect](https://github.com/Aditya-xcity/GeoDetect-YOLOv8)** — YOLOv8 training notebook and Flask inference demo for detecting aircraft and ships in aerial imagery.
+- **[TSP Performance Lab](https://github.com/Aditya-xcity/tsp-performance-lab)** — C++ solvers, a Node.js API, and a dashboard for comparing route costs and runtimes.
+- **[Rate Limiter Lab](https://github.com/Aditya-xcity/RAteLimiiterMock)** — Flask sandbox for comparing fixed window, sliding window log, and token bucket rate limits.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aditya-xcity&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I also keep a [LeetCode practice archive](https://github.com/Aditya-xcity/ByteByByte) with solutions in C++ and Python.
 
----
-[![](https://visitcount.itsvg.in/api?id=Aditya-xcity&icon=0&color=0)](https://visitcount.itsvg.in)
+## GitHub activity
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub contribution count and active days over the past year](https://raw.githubusercontent.com/Aditya-xcity/Aditya-xcity/output/activity.svg)](https://github.com/Aditya-xcity#contribution-activity)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-xcity/Aditya-xcity/output/snake-dark.svg">
+  <img alt="Animated cyan snake tracing my GitHub contribution calendar" src="https://raw.githubusercontent.com/Aditya-xcity/Aditya-xcity/output/snake-light.svg">
+</picture>
+
+The activity card and snake refresh daily from GitHub's contribution calendar.

@@ -1,0 +1,56 @@
+name: Contribution art
+on:
+  schedule:
+    - cron: '23 2 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, profile/arctic-blue]
+    paths:
+      - '.github/workflows/contribution-art.yml'
+      - 'scripts/activity.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-art-output
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
+        with:
+          github_user_name: Aditya-xcity
+          outputs: |
+            dist/snake-light.svg?palette=github-light&color_snake=%2338BDF8&color_dots=%23BAE6FD,%2338BDF8,%23216AA5,%23133958,%23081523
+            dist/snake-dark.svg?palette=github-dark&color_snake=%2338BDF8&color_dots=%23081523,%23133958,%23216AA5,%2338BDF8,%23BAE6FD
+      - name: Render public contribution metrics
+        run: |
+          curl --fail --silent --show-error --retry 3 https://github.com/users/Aditya-xcity/contributions -o calendar.html
+          python3 scripts/activity.py
+      - name: Publish generated SVGs
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          gh auth setup-git
+          git init --initial-branch=output dist
+          cd dist
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          if git ls-remote --exit-code --heads origin output; then
+            git fetch --depth=1 origin output
+            git reset --mixed FETCH_HEAD
+          else
+            status=$?
+            if [ "$status" -ne 2 ]; then exit "$status"; fi
+          fi
+          git add -- activity.svg snake-light.svg snake-dark.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Refresh contribution art'
+          git push origin HEAD:refs/heads/output
