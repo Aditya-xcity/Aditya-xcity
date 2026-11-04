@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="250" viewBox="0 0 760 250">
+  <title>Aditya Bhardwaj | Developer terminal</title>
+  <desc>B.Tech CSE student exploring native mobile, backend systems, algorithms, and applied AI.</desc>
+  <style>
+    text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+    .topic{opacity:0;animation:rotate 16s infinite}
+    .topic:nth-of-type(2){animation-delay:4s}
+    .topic:nth-of-type(3){animation-delay:8s}
+    .topic:nth-of-type(4){animation-delay:12s}
+    @keyframes rotate{0%,24%{opacity:1}25%,100%{opacity:0}}
+    @media(prefers-reduced-motion:reduce){.topic{animation:none}.topic:first-of-type{opacity:1}}
+  </style>
+  <rect x="1" y="1" width="758" height="248" rx="18" fill="#081523" stroke="#216AA5" stroke-width="2"/>
+  <path d="M19 2h722a17 17 0 0 1 17 17v30H2V19A17 17 0 0 1 19 2Z" fill="#133958"/>
+  <path d="M2 49h756" stroke="#216AA5"/>
+  <circle cx="26" cy="26" r="5" fill="#38BDF8"/>
+  <circle cx="43" cy="26" r="5" fill="#216AA5"/>
+  <circle cx="60" cy="26" r="5" fill="#BAE6FD"/>
+  <text x="85" y="32" fill="#BAE6FD" font-size="17">aditya-xcity / terminal</text>
+  <text x="30" y="88" fill="#38BDF8" font-size="20">$ whoami</text>
+  <text x="30" y="137" fill="#BAE6FD" font-size="46" font-weight="700">Aditya Bhardwaj</text>
+  <text x="32" y="172" fill="#BAE6FD" font-size="22">B.Tech CSE student / Developer</text>
+  <path d="M32 191h696" stroke="#133958" stroke-width="2"/>
+  <text x="32" y="224" fill="#BAE6FD" font-size="23">&gt; Exploring:</text>
+  <g fill="#38BDF8" font-size="23">
+    <text class="topic" x="221" y="224">Native mobile</text>
+    <text class="topic" x="221" y="224">Backend systems</text>
+    <text class="topic" x="221" y="224">Algorithms</text>
+    <text class="topic" x="221" y="224">Applied AI</text>
+  </g>
+</svg>
