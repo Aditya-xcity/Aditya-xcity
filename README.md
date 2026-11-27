@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tetris-logo.svg" width="180" alt="Animated Tetris-style geometric logo">
+  <img src="https://raw.githubusercontent.com/Aditya-xcity/Aditya-xcity/791facdbe1b00a5619642c5a1005dbb2960f27bd/assets/tetris-logo.svg" width="180" alt="Animated Tetris-style geometric logo">
 </p>
 
 ![Terminal banner: Aditya Bhardwaj, B.Tech CSE student and developer](assets/terminal.svg)
