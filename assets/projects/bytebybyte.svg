@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="792" height="135" viewBox="0 0 792 135" role="img" aria-labelledby="title desc">
+  <title id="title">ByteByByte</title>
+  <desc id="desc">My collection of algorithm and data structure solutions from LeetCode. C++ · Python · DSA.</desc>
+  <rect x="0.5" y="0.5" width="791" height="134" rx="14" fill="#161B22" stroke="#30363D"/>
+  <rect x="16" y="16" width="38" height="38" rx="9" fill="#202D3C"/>
+  <g transform="translate(23 23)" fill="none" stroke="#79C0FF" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"><path d="m8 6-6 6 6 6m8-12 6 6-6 6m-2-15-4 18"/></g>
+  <path d="m759 37 11-11m-9 0h9v9" fill="none" stroke="#79C0FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+    <text x="65" y="42" fill="#E6EDF3" font-weight="700" font-size="23">ByteByByte</text>
+    <text x="16" y="82" fill="#8B949E" font-size="18">My collection of algorithm and data structure solutions from LeetCode.</text>
+    <text x="16" y="118" fill="#A5F3FF" font-weight="600" font-size="16">C++ · Python · DSA</text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="156" viewBox="0 0 384 156" role="img" aria-labelledby="title desc">
+  <title id="title">Rate Limiter Lab</title>
+  <desc id="desc">Explore fixed window, sliding window log, and token bucket rate limiting. Python · Flask.</desc>
+  <rect x="0.5" y="0.5" width="383" height="155" rx="14" fill="#161B22" stroke="#30363D"/>
+  <rect x="16" y="16" width="38" height="38" rx="9" fill="#202D3C"/>
+  <g transform="translate(23 23)" fill="none" stroke="#79C0FF" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19a9 9 0 1 1 16 0ZM12 15l4-5M6 14h1m5-7v1m5 6h1"/><circle cx="12" cy="15" r="1"/></g>
+  <path d="m351 37 11-11m-9 0h9v9" fill="none" stroke="#79C0FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+    <text x="65" y="42" fill="#E6EDF3" font-weight="700" font-size="23">Rate Limiter Lab</text>
+    <text x="16" y="82" fill="#8B949E" font-size="18">Explore fixed window, sliding window</text>
+    <text x="16" y="105" fill="#8B949E" font-size="18">log, and token bucket rate limiting.</text>
+    <text x="16" y="139" fill="#A5F3FF" font-weight="600" font-size="16">Python · Flask</text>
+  </g>
+</svg>

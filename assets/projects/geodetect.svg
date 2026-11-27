@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="156" viewBox="0 0 384 156" role="img" aria-labelledby="title desc">
+  <title id="title">GeoDetect</title>
+  <desc id="desc">AI-powered detection of aircraft and ships in aerial imagery. YOLOv8 · Flask.</desc>
+  <rect x="0.5" y="0.5" width="383" height="155" rx="14" fill="#161B22" stroke="#30363D"/>
+  <rect x="16" y="16" width="38" height="38" rx="9" fill="#202D3C"/>
+  <g transform="translate(23 23)" fill="none" stroke="#79C0FF" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><path d="M12 12l6-6"/><circle cx="15" cy="15" r="1"/></g>
+  <path d="m351 37 11-11m-9 0h9v9" fill="none" stroke="#79C0FF" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+    <text x="65" y="42" fill="#E6EDF3" font-weight="700" font-size="23">GeoDetect</text>
+    <text x="16" y="82" fill="#8B949E" font-size="18">AI-powered detection of aircraft</text>
+    <text x="16" y="105" fill="#8B949E" font-size="18">and ships in aerial imagery.</text>
+    <text x="16" y="139" fill="#A5F3FF" font-weight="600" font-size="16">YOLOv8 · Flask</text>
+  </g>
+</svg>
